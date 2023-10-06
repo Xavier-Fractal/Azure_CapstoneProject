@@ -1,0 +1,9 @@
+{
+	"name": "ADFxavier",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d9b67c8a-18cc-4364-a8df-5d2f897d10aa",
+		"tenantId": "2d2199a8-cb98-4269-b2ae-c63cf2b7c7f0"
+	}
+}
