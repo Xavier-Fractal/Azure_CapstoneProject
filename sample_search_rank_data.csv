@@ -1,0 +1,20 @@
+retailer,retailer_product_id,retailer_group_id,retailer_product_name,net_quantity,price,price_per_unit,sponsored,promotion_text,parsed_price,promotion_type,search_term,rank,country,gathered_timestamp,insert_timestamp
+Amazon-In,ASIN01,ASINGROUP1,Chocolate box of 10,5 kg,$100 ,null,null,null,$100 ,null,chocolate,19,India,2021-05-12T00:07:04.072+0000,2021-05-12T11:53:32.697+0000
+Amazon-In,ASIN02,ASINGROUP2,Chocolate box of 11,6 kg,$150 ,null,null,null,$150 ,null,chocolate,26,India,2021-05-12T00:20:29.276+0000,2021-05-12T11:53:33.191+0000
+Amazon-In,ASIN03,ASINGROUP3,Chocolate box of 12,7 kg,$170 ,null,TRUE,was $200,$170 ,PRICE_CUT,chocolate,30,India,2021-05-12T00:20:47.941+0000,2021-05-12T11:53:33.189+0000
+Amazon-In,ASIN04,ASINGROUP4,Chocolate box of 13,8 kg,$150 ,null,TRUE,was $201,$150 ,PRICE_CUT,chocolate,10,India,2021-05-12T00:07:11.911+0000,2021-05-12T11:53:32.321+0000
+Amazon-In,ASIN05,ASINGROUP5,Chocolate box of 14,9 kg,$110 ,null,TRUE,was $202,$110 ,PRICE_CUT,chocolate,5,India,2021-05-12T00:20:34.657+0000,2021-05-12T11:53:33.188+0000
+Amazon-In,ASIN06,ASINGROUP6,Chocolate box of 15,10 kg,$150 ,null,TRUE,was $203,$150 ,PRICE_CUT,chocolate,32,India,2021-05-12T00:07:02.337+0000,2021-05-12T11:53:32.321+0000
+Amazon-In,ASIN07,ASINGROUP7,Chocolate box of 16,11 kg,$200 ,null,null,null,$200 ,null,chocolate,45,India,2021-05-12T00:06:12.979+0000,2021-05-12T11:53:32.699+0000
+Amazon-In,ASIN08,ASINGROUP8,Chocolate box of 17,12 kg,$250 ,null,TRUE,was $300,$250 ,PRICE_CUT,chocolate,2,India,2021-05-12T00:20:53.302+0000,2021-05-12T11:53:32.692+0000
+Amazon-In,ASIN09,ASINGROUP9,Chocolate box of 18,13 kg,$300 ,null,null,null,$300 ,null,chocolate,20,India,2021-05-12T00:07:04.072+0000,2021-05-12T11:53:32.697+0000
+Amazon-us,ASIN101,ASINGROUP101,gums pack of 100,50 g,$10 ,null,null,null,$10 ,null,gum,19,USA,2021-05-12T00:07:04.072+0000,2021-05-12T11:53:32.697+0000
+Amazon-us,ASIN102,ASINGROUP102,gums pack of 150,90 g,$12 ,null,null,null,$12 ,null,gum,26,USA,2021-05-12T00:20:29.276+0000,2021-05-12T11:53:33.191+0000
+Amazon-us,ASIN103,ASINGROUP103,gums pack of 200,130 g,$14 ,null,TRUE,was $20,$14 ,PRICE_CUT,gum,30,USA,2021-05-12T00:20:47.941+0000,2021-05-12T11:53:33.189+0000
+Amazon-us,ASIN104,ASINGROUP104,gums pack of 250,170 g,$16 ,null,TRUE,was $20,$16 ,PRICE_CUT,gum,10,USA,2021-05-12T00:07:11.911+0000,2021-05-12T11:53:32.321+0000
+Amazon-us,ASIN105,ASINGROUP105,gums pack of 300,210 g,$18 ,null,TRUE,was $20,$18 ,PRICE_CUT,gum,5,USA,2021-05-12T00:20:34.657+0000,2021-05-12T11:53:33.188+0000
+Amazon-us,ASIN106,ASINGROUP106,gums pack of 350,250 g,$20 ,null,TRUE,was $20,$20 ,PRICE_CUT,gum,32,USA,2021-05-12T00:07:02.337+0000,2021-05-12T11:53:32.321+0000
+Amazon-us,ASIN107,ASINGROUP107,gums pack of 400,290 g,$22 ,null,null,null,$22 ,null,gum,45,USA,2021-05-12T00:06:12.979+0000,2021-05-12T11:53:32.699+0000
+Amazon-us,ASIN108,ASINGROUP108,gums pack of 450,310 g,$24 ,null,TRUE,was $30,$24 ,PRICE_CUT,gum,2,USA,2021-05-12T00:20:53.302+0000,2021-05-12T11:53:32.692+0000
+Amazon-us,ASIN109,ASINGROUP109,gums pack of 500,350 g,$26 ,null,null,null,$26 ,null,gum,20,USA,2021-05-12T00:07:04.072+0000,2021-05-12T11:53:32.697+0000
+Amazon-us,ASIN110,ASINGROUP110,gums pack of 550,390 g,$28 ,null,null,null,$28 ,null,gum,10,USA,2021-05-12T00:07:04.072+0000,2021-05-12T11:53:32.697+0000
